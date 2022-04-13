@@ -1,0 +1,23 @@
+{
+  "status": "success",
+  "data": {
+    "fb_native_id": "",
+    "fb_inter_id": "",
+    "fb_banner_id": "",
+    "splash":"0",
+"start":"0",
+"get_started":"0",
+"language":"1",
+"category":"0",
+"home":"0",
+"play":"0",
+"webview":"0",
+    "google_native_id": "",
+    "google_inter_id": "",
+    "google_banner_id": "",
+    "addStatusCode": "1",
+    "adsclicklimit": "4",
+    "qureka_visible":"2",
+    "qureka_url":"https://893.win.qureka.com"
+  }
+}
