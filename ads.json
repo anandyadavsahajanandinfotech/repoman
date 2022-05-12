@@ -1,15 +1,14 @@
 {
   "status": "success",
   "data": {
-    "fb_native_id": "",
-    "fb_inter_id": "801912610772881_801923004105175",
-    "fb_banner_id": "801912610772881_805455700418572",
-    "google_native_id": "",
-    "google_inter_id": "",
-    "google_banner_id": "",
-    "addStatusCode": "2",
     "adsclicklimit": "1",
-    "qureka_visible":"2",
-    "qureka_url":"https://893.win.qureka.com"
+    "isAdVisible": "1",
+    "music_list_url": "https://anandyadav21219.github.io/anand_task_new/music_list.json"
+  },
+  "ads_data": {
+    "id": "1",
+    "title": "Need Healthy\n Massage?",
+    "image_url": "https://laughing-murdock-0392bc.netlify.app/portfolio-frame-img1.png",
+    "app_url": "https://play.google.com/store/apps/details?id=org.telegram.messenger"
   }
 }
