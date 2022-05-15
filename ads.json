@@ -2,8 +2,8 @@
   "status": "success",
   "data": {
     "adsclicklimit": "2",
-    "isAdVisible": "1",
-    "isAdVisibleLimit":"1",
+    "isAdVisible": "2",
+    "isAdVisibleLimit":"2",
     "music_list_url": "https://anandyadav21219.github.io/anand_task_new/music_list.json",
     "flag1":true,
 "flag2":true,
@@ -23,8 +23,8 @@
   },
   "ads_data": {
     "id": "1",
-    "title": "Need Healthy\n Massage?",
+    "title": "Need Healthy\n Massage? then Click\n on Below Button.",
     "image_url": "https://laughing-murdock-0392bc.netlify.app/portfolio-frame-img1.png",
-    "app_url": "https://play.google.com/store/apps/details?id=org.telegram.messenger"
+    "app_url": "https://play.google.com/store/apps/details?id=snsinfotech.backup.recoverey"
   }
 }
