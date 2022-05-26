@@ -32,7 +32,11 @@
     "inter11": true,
     "inter12": true,
     "inter13": true,
-    "inter14": true
+    "inter14": true,
+    "intergoogle":"ca-app-pub-3940256099942544/1033173712",
+    "bannergoogle":"ca-app-pub-3940256099942544/6300978111",
+    "nativegoogle":"ca-app-pub-3940256099942544/2247696110",
+    "openadgoogle":"ca-app-pub-3940256099942544/3419835294"
   },
   "ads_data": {
     "id": "1",
