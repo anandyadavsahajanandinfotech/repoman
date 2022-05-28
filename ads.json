@@ -19,6 +19,7 @@
     "flag12": true,
     "flag13": true,
     "flag14": true,
+    "flag15": true,
     "inter1": true,
     "inter2": true,
     "inter3": true,
@@ -33,6 +34,7 @@
     "inter12": true,
     "inter13": true,
     "inter14": true,
+    "inter15": true,
     "intergoogle":"ca-app-pub-3940256099942544/1033173712",
     "bannergoogle":"ca-app-pub-3940256099942544/6300978111",
     "nativegoogle":"ca-app-pub-3940256099942544/2247696110",
@@ -40,6 +42,7 @@
   },
   "ads_data": {
     "id": "1",
+    "hash_tag":"#Massage",
     "title": "Need Healthy\n Massage? then Click\n on Below Button.",
     "image_url": "https://laughing-murdock-0392bc.netlify.app/portfolio-frame-img1.png",
     "app_url": "https://play.google.com/store/apps/details?id=com.massageapp.withyoutubevideo",
