@@ -2,7 +2,7 @@
   "status": "success",
   "data": {
     "adsclicklimit": "2",
-    "isAdVisible": "1",
+    "isAdVisible": "2",
     "isAdVisibleLimit": "1",
     "music_list_url": "https://neon-lollipop-17439f.netlify.app/music_list.json",
     "flag1": true,
@@ -42,7 +42,7 @@
     "id": "1",
     "title": "Need Healthy\n Massage? then Click\n on Below Button.",
     "image_url": "https://laughing-murdock-0392bc.netlify.app/portfolio-frame-img1.png",
-    "app_url": "https://play.google.com/store/apps/details?id=snsinfotech.backup.recoverey",
-    "btn_val": "Play Now"
+    "app_url": "https://play.google.com/store/apps/details?id=com.massageapp.withyoutubevideo",
+    "btn_val": "Watch Now"
   }
 }
