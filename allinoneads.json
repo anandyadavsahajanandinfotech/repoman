@@ -10,6 +10,7 @@
     "addStatusCode": "1",
     "adsclicklimit": "4",
     "qureka_visible":"2",
-    "qureka_url":"http://591.win.qureka.co/"
+    "qureka_url":"http://591.win.qureka.co/",
+    "addLimit":"2"
   }
 }
