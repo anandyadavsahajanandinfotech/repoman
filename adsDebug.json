@@ -1,7 +1,7 @@
 {
   "status": "success",
   "data": {
-    "adsclicklimit": "1",
+    "adsclicklimit": "10",
     "isAdVisible": "1",
     "isAdVisibleLimit": "1",
     "music_list_url": "https://neon-lollipop-17439f.netlify.app/music_list.json",
