@@ -1,0 +1,21 @@
+{
+  "ADMob_Int": "ca-app-pub-3940256099942544/1033173712",
+  "Admob_Banner": "ca-app-pub-3940256099942544/6300978111",
+  "Admob_Native": "ca-app-pub-3940256099942544/2247696110",
+  "Open_Ad": "ca-app-pub-3940256099942544/3419835294",
+  "Admob_Reward_Ad": "ca-app-pub-3940256099942544/5224354917",
+  "Native_ad_show": "1",
+  "AppLovin_Int": "dc29f6b2595cc585",
+  "AppLovin_Banner": "c33cccccf5654eef",
+  "AppLovin_Native": "87cc391d47e2b154",
+  "Applovin_MREC": "",
+  "AppLovin_Reward": "",
+  "AppLovin_Open": "623bf040ba795f4d",
+  "home_flag_applovin_admob_Int": "2",
+  "edit_flag_applovin_admob_Int": "2",
+  "share_flag_applovin_admob_Int": "2",
+  "setting_flag_applovin_admob_Int": "2",
+  "home_flag_applovin_admob_Native": "2",
+  "share_flag_applovin_admob_Native": "2",
+  "setting_flag_applovin_admob_Native": "2"
+}
