@@ -11,11 +11,11 @@
   "Applovin_MREC": "",
   "AppLovin_Reward": "",
   "AppLovin_Open": "623bf040ba795f4d",
-  "home_flag_applovin_admob_Int": "1",
-  "edit_flag_applovin_admob_Int": "1",
-  "share_flag_applovin_admob_Int": "1",
-  "setting_flag_applovin_admob_Int": "1",
-  "home_flag_applovin_admob_Native": "1",
-  "share_flag_applovin_admob_Native": "1",
-  "setting_flag_applovin_admob_Native": "1"
+  "home_flag_applovin_admob_Int": "2",
+  "edit_flag_applovin_admob_Int": "2",
+  "share_flag_applovin_admob_Int": "2",
+  "setting_flag_applovin_admob_Int": "2",
+  "home_flag_applovin_admob_Native": "2",
+  "share_flag_applovin_admob_Native": "2",
+  "setting_flag_applovin_admob_Native": "2"
 }
