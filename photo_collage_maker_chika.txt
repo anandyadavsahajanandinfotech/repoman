@@ -33,7 +33,7 @@
   "privacy": "https://pankhopankho.blogspot.com/2021/11/privacy-policy.html",
   "AppLovin_Int": "dc29f6b2595cc585",
   "AppLovin_Banner": "c33cccccf5654eef",
-  "AppLovin_Native": "",
+  "AppLovin_Native": "87cc391d47e2b154",
   "Applovin_MREC": "",
   "AppLovin_Reward": "",
   "AppLovin_Open": "623bf040ba795f4d",
