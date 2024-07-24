@@ -4,12 +4,12 @@
     "native": "ca-app-pub-3940256099942544/2247696110",
     "banner": "ca-app-pub-3940256099942544/9214589741",
     "appopen": "ca-app-pub-3940256099942544/9257395921",
-    "splash_inter_switch": "1",
-    "editor_inter_switch": "1",
-    "collage_inter_switch": "1",
-    "home_native_switch": "1",
-    "share_native_switch": "1",
-    "editor_banner_switch": "1",
+    "splash_inter_switch": "0",
+    "editor_inter_switch": "0",
+    "collage_inter_switch": "0",
+    "home_native_switch": "0",
+    "share_native_switch": "0",
+    "editor_banner_switch": "0",
     "collage_banner_switch": "1",
     "privacy": "https://laughing-murdock-0392bc.netlify.app/privacy_policy.html"
   }
