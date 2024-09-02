@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            padding: 0;
+            color: #333;
+        }
+
+        h1,
+        h2,
+        h3 {
+            color: #2c3e50;
+        }
+
+        h1 {
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+
+        h2 {
+            font-size: 20px;
+            margin-top: 30px;
+            margin-bottom: 15px;
+        }
+
+        h3 {
+            font-size: 18px;
+            margin-top: 20px;
+            margin-bottom: 10px;
+        }
+
+        p {
+            margin-bottom: 15px;
+        }
+
+        ul {
+            margin-left: 20px;
+            list-style-type: disc;
+        }
+
+        a {
+            color: #2980b9;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Privacy Policy</h1>
+
+    <p>This Privacy Policy describes our practices concerning the collection, use, and sharing of your personal information. By using our app, you consent and agree to the collection, use, and disclosure of your personal information and the privacy practices outlined in this policy. You must read thoroughly and fully understand this policy before using or continuing to use our products and services.</p>
+
+    <p><strong>Chika Munjani</strong> expressly reserves the right to change this Privacy Policy at any time.</p>
+
+    <h2>Content</h2>
+    <ul>
+        <li><a href="#your-rights">1. Your Rights</a></li>
+        <li><a href="#how-we-collect">2. How We Collect and Use Your Personal Information</a></li>
+        <li><a href="#how-we-disclose">3. How We Disclose and Share Your Personal Information</a></li>
+        <li><a href="#third-party">4. Third-Party Partners Privacy Policy</a></li>
+        <li><a href="#child-protection">5. Child Protection</a></li>
+        <li><a href="#permission-application">6. Permission Application and Use</a></li>
+        <li><a href="#contact-us">7. How to Contact Us</a></li>
+        <li><a href="#update-policy">8. How We Update the Privacy Policy</a></li>
+    </ul>
+
+    <h2 id="your-rights">1. Your Rights</h2>
+    <ul>
+        <li>Photo Collage - Pic Grid Maker does not need registration, so we cannot provide you with a path to access, correct, or delete your personal information.</li>
+        <li>You may email us your request to change or withdraw your authorization through Section 7 of this policy, which will result in some or all of the features being unavailable. Also, your decision to change or withdraw your authorization will not affect our previous processing of personal information based on your permission.</li>
+        <li>Contact us to manage your order information. You can check your historical order details with us through the contact email listed in Section 7.</li>
+        <li>We take the concern about your personal information very seriously and will do our best to protect the rights regarding your personal information.</li>
+    </ul>
+
+    <h2 id="how-we-collect">2. How We Collect and Use Your Personal Information</h2>
+    <ul>
+        <li><strong>Services for you:</strong> When you use the editing function, we need to access your local media to select videos or pictures. When you save a finished video, you need to access the local media storage to save the video and modify the storage path. This access is only for you to edit and save videos or pictures, otherwise, we will not access any content on your device.</li>
+        <li><strong>When you use the recording function:</strong> we need to get your microphone access for recording audio, and this access will only be used when you are recording video. Also, your audio will be stored in the Photo Collage - Pic Grid Maker Draft and on your device. If you delete it from the Draft or your device, Photo Collage - Pic Grid Maker will not reserve any related audio material.</li>
+        <li><strong>Customer Service:</strong> When you give feedback through email, we will collect your email address and email to communicate with you in time to solve your problems.</li>
+        <li><strong>Subscription:</strong> After you decide to subscribe, we will collect your account number, order details, and related orders. If you do not agree to authorize the account, we can't provide you with the subscription services.</li>
+        <li><strong>Certain usage related to information about your device and interaction with the device:</strong> For example, the time and way you use, the products and advertisements you view and use, the way you use and how you react, the frequency you use, the type of device, the physical size, the operating system version, the crash information (such as defects) and unique IDs. We do not allow third-party online advertisements to freely collect any information about your use of our services for use on other websites, applications, or services.</li>
+    </ul>
+
+    <h2 id="how-we-disclose">3. How We Disclose and Share Your Personal Information</h2>
+    <ul>
+        <li><strong>Disclosure:</strong> We only disclose your personal information in the following circumstances:
+            <ul>
+                <li>To disclose your personal information by the form of your consent, where you have expressly consented.</li>
+                <li>We may disclose your personal information in the manner requested if we are required by law or regulation to provide your personal information.</li>
+            </ul>
+        </li>
+        <li><strong>Share:</strong> We do not sell any personal information to third parties. We may share some of your personal information with our third parties to provide you with better products and services except the scenarios outlined in this Privacy Policy. Please note that we will only share your personal information for lawful, legitimate, necessary, specific, and explicit purposes. We also require our third-party partners (as described in Section 4 of this Privacy Policy) to deal with the information with confidentiality and security measures required by this Policy. If they are found to be dealing with personal information in violation of this Policy, we will immediately cease cooperation and hold them legally responsible.</li>
+    </ul>
+
+    <h2 id="third-party">4. Third-Party Partners Privacy Policy</h2>
+    <ul>
+        <li><strong>Advertising Services:</strong> Our app uses Facebook and Admob as advertising providers.
+            <ul>
+                <li>Facebook: <a href="https://www.facebook.com/privacy/explanation">https://www.facebook.com/privacy/explanation</a></li>
+                <li>Admob: <a href="https://support.google.com/admob/answer/6128543?hl=en">https://support.google.com/admob/answer/6128543?hl=en</a></li>
+            </ul>
+            Advertising providers may use your personal information to enhance the advertising experience with your permission.
+        </li>
+        <li><strong>Services:</strong>
+            <ul>
+                <li>Google Firebase Analytics: Using Firebase as our background data analysis application
+                    <br><a href="https://policies.google.com/privacy">https://policies.google.com/privacy</a>
+                </li>
+
+            </ul>
+            The service provider may use the relevant device list and identification number for background data analysis with your permission.
+        </li>
+    </ul>
+
+    <h2 id="child-protection">5. Child Protection</h2>
+    <p>Photo Collage - Pic Grid Maker mainly provides products and services for people over 13 years old. If you are the guardian of a user under 13 years old, you're responsible for supervising the child to use our products or services. If you are a user under the age of 13, please read this Policy carefully with a parent or guardian and obtain the consent of your parent or guardian before using Photo Collage - Pic Grid Maker's products and services or providing information to us.</p>
+    <p>If you are a parent or guardian and believe that Photo Collage - Pic Grid Maker has collected information from users under 13, you may contact us through Section 7 of this Policy. We will verify and respond to you. If our products inadvertently collect relevant personal information, we will delete it as soon as possible.</p>
+
+    <h2 id="permission-application">6. Permission Application and Use</h2>
+    <p>We request some permissions to make the application functional:</p>
+    <ul>
+        <li><strong>Permission.READ_EXTERNAL_STORAGE:</strong> Allows our app to read photos, videos, and files to create videos.</li>
+        <li><strong>Permission.WRITE_EXTERNAL_STORAGE:</strong> Allows our app to write, save, modify, and delete photos, files, and crash logs.</li>
+    </ul>
+
+    <h2 id="contact-us">7. How to Contact Us</h2>
+    <p>If you have any questions about this Privacy Policy or any comments and suggestions about the product, email us at <a href="mailto:chikamunjani@gmail.com">chikamunjani@gmail.com</a>. We will respond to you within two business days by receiving your email.</p>
+
+    <h2 id="update-policy">8. How We Update the Privacy Policy</h2>
+    <p>We may revise our Privacy Policy irregularly under policy requirements and legal documents. Please note that by using our app and services, you are fully aware of the terms of our Privacy Policy and understand and agree to all the contents. We encourage you to periodically review this page for the latest information on our Privacy Policy. When we collect additional personal information from you or use or disclose your personal information for new purposes, we will ask for your permission again as required by law.</p>
+
+</body>
+
+</html>
